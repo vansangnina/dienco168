@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "robotomedium";
+    src: url( http://localhost/ducnguyen/css/font/Robotomedium/Robotomedium.eot ); /* IE */
+    src: local("robotomedium"), url("http://localhost/ducnguyen/css/font/Robotomedium/Robotomedium.ttf") format("truetype"); /*non-IE*/
+}
+@font-face {
+    font-family: "MSMincho";
+    src: url(http://phukienvienthong.info/quantriweb/ckeditor/fonts/MSMincho.eot ); /* IE */
+    src: local("MSMincho"), url("http://phukienvienthong.info/quantriweb/ckeditor/fonts/MSMincho.ttf") format("truetype"); /*non-IE*/
+}
+@font-face {
+    font-family: "msgothic";
+    src: url( http://phukienvienthong.info/quantriweb/ckeditor/fonts/msgothic.eot ); /* IE */
+    src: local("msgothic"), url("http://phukienvienthong.info/quantriweb/ckeditor/fonts/msgothic.ttf") format("truetype"); /*non-IE*/
+}
+@font-face {
+    font-family: "UVNTinTucHepThem_R";
+    src: url( http://phukienvienthong.info/quantriweb/ckeditor/fonts/UVNTinTucHepThem_R.eot ); /* IE */
+    src: local("UVNTinTucHepThem_R"), url("http://phukienvienthong.info/quantriweb/ckeditor/fonts/UVNTinTucHepThem_R.ttf") format("truetype"); /*non-IE*/
+}
+@font-face {
+    font-family: "UVNTinTucHep_R";
+    src: url(http://phukienvienthong.info/quantriweb/ckeditor/fonts/UVNTinTucHep_R.eot ); /* IE */
+    src: local("UVNTinTucHep_R"), url("http://phukienvienthong.info/quantriweb/ckeditor/fonts/UVNTinTucHep_R.ttf") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "segoeui";
+    src: url(http://phukienvienthong.info/quantriweb/ckeditor/fonts/SEGOEUI.eot ); /* IE */
+    src: local("segoeui"), url("http://phukienvienthong.info/quantriweb/ckeditor/fonts/SEGOEUI.TTF") format("truetype"); /*non-IE*/
+}
